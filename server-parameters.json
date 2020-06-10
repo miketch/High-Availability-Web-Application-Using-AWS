@@ -1,0 +1,10 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "WebApplication"
+	},
+	{
+		"ParameterKey": "S3Bucket",
+		"ParameterValue": "webapp-bucket77"	
+	}
+]

@@ -1,0 +1,1 @@
+aws cloudformation update-stack --stack-name theNetwork --template-body file://network.yml --parameters file://network-parameters.json 

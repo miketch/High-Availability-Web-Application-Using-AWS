@@ -1,0 +1,1 @@
+aws cloudformation create-stack --capabilities CAPABILITY_IAM --stack-name myServer --template-body file://server.yml --parameters file://server-parameters.json 
